@@ -1,0 +1,10 @@
+**/.idea/**
+**/.git/**
+**/.editorconfig/**
+**/public/**
+
+**/.tmp/**
+**/err.log**
+**/out.log**
+
+!*.js
